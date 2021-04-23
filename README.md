@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+React-Image-Search: In this app, I tried to create functionality same as Google Image Search. I used the unsplash free API for the image results. 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,4 +69,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# React-Image-Search
