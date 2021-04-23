@@ -1,4 +1,5 @@
-React-Image-Search: In this app, I tried to create functionality same as Google Image Search. I used the unsplash free API for the image results. 
+## React-Image-Search
+In this app, I tried to create functionality same as Google Image Search. I used the unsplash free API for the image results. 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
