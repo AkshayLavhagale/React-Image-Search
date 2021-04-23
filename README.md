@@ -1,4 +1,4 @@
-## React-Image-Search
+# React-Image-Search
 In this app, I tried to create functionality same as Google Image Search. I used the unsplash free API for the image results. 
 
 
